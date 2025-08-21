@@ -1,0 +1,20 @@
+function setup() {
+  createCanvas(400, 400);
+}
+
+  function draw() {
+  background('#0D7BD3');
+  circle(200,200,10)
+  function setup()
+  createCanvas (400,400);
+  function draw()
+  backgrund(220)
+  circle(random(400), random(400),10);
+  function setup()
+  creanteCanvas(400,400);
+    X=random(400);
+    T=random(400);
+    
+    fun
+  
+}
